@@ -47,6 +47,8 @@
     <Compile Include="Airplane.cs" />
     <Compile Include="Bank.cs" />
     <Compile Include="Book.cs" />
+    <Compile Include="Calc.cs" />
+    <Compile Include="Calculation.cs" />
     <Compile Include="Ceo.cs" />
     <Compile Include="Circle.cs" />
     <Compile Include="Coordinates.cs" />
@@ -61,9 +63,11 @@
     <Compile Include="FullTime.cs" />
     <Compile Include="Helicopter.cs" />
     <Compile Include="IFlyable.cs" />
+    <Compile Include="OutKey.cs" />
     <Compile Include="Product.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Ref.cs" />
     <Compile Include="SalesManager.cs" />
     <Compile Include="Shape.cs" />
     <Compile Include="Structure.cs" />

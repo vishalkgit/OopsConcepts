@@ -121,8 +121,13 @@ namespace OopsConcepts
             //Console.WriteLine(d2.Print());
 
 
-            Coordinates c1= new Coordinates(5,8);
-            c1.Print();
+            //Coordinates c1= new Coordinates(5,8);
+            //c1.Print();
+
+            Calculation c1 = new Calculation();
+            Console.WriteLine(c1.Muliply(8, 5));
+            Console.WriteLine(c1.Add(1000, 900));
+
         }
     }
 }
