@@ -53,6 +53,7 @@
     <Compile Include="Date.cs" />
     <Compile Include="Employee.cs" />
     <Compile Include="Employees.cs" />
+    <Compile Include="Enum.cs" />
     <Compile Include="File1.cs" />
     <Compile Include="File2.cs" />
     <Compile Include="File3.cs" />

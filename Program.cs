@@ -104,12 +104,14 @@ namespace OopsConcepts
             //Helicopter h = new Helicopter();
             //h.FlyObj();
 
-            Calc c1 = new Calc();
-            Console.WriteLine(c1.Add(5,5));
-            Console.WriteLine(c1.Multiply(8,5));
-            Console.WriteLine(c1.Sub(125,25));
+            //Calc c1 = new Calc();
+            //Console.WriteLine(c1.Add(5,5));
+            //Console.WriteLine(c1.Multiply(8,5));
+            //Console.WriteLine(c1.Sub(125,25));
             //Console.WriteLine(c1.Invoke(80,6));
 
+            Emp e1 = new Emp(101, "Vishal", Department.Dev, Roles.Employee);
+            Console.WriteLine(e1);
         }
     }
 }
