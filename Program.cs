@@ -110,8 +110,19 @@ namespace OopsConcepts
             //Console.WriteLine(c1.Sub(125,25));
             //Console.WriteLine(c1.Invoke(80,6));
 
-            Emp e1 = new Emp(101, "Vishal", Department.Dev, Roles.Employee);
-            Console.WriteLine(e1);
+            //Emp e1 = new Emp(101, "Vishal", Department.Dev, Roles.Employee);
+            //Console.WriteLine(e1);
+
+
+            //Dept d1 = new Dept(1,"Vishal");
+            //Console.WriteLine(d1.Print());
+
+            //var d2 = new Dept(2, "Shivani");
+            //Console.WriteLine(d2.Print());
+
+
+            Coordinates c1= new Coordinates(5,8);
+            c1.Print();
         }
     }
 }
