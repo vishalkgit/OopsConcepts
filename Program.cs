@@ -95,14 +95,20 @@ namespace OopsConcepts
             //Console.WriteLine(f1);
 
 
-            Spacecraft sp = new Spacecraft();
-            sp.FlyObj();
+            //Spacecraft sp = new Spacecraft();
+            //sp.FlyObj();
 
-            Airplane ap = new Airplane();
-            ap.FlyObj();
+            //Airplane ap = new Airplane();
+            //ap.FlyObj();
 
-            Helicopter h = new Helicopter();
-            h.FlyObj();
+            //Helicopter h = new Helicopter();
+            //h.FlyObj();
+
+            Calc c1 = new Calc();
+            Console.WriteLine(c1.Add(5,5));
+            Console.WriteLine(c1.Multiply(8,5));
+            Console.WriteLine(c1.Sub(125,25));
+            //Console.WriteLine(c1.Invoke(80,6));
 
         }
     }

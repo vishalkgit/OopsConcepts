@@ -53,6 +53,9 @@
     <Compile Include="Date.cs" />
     <Compile Include="Employee.cs" />
     <Compile Include="Employees.cs" />
+    <Compile Include="File1.cs" />
+    <Compile Include="File2.cs" />
+    <Compile Include="File3.cs" />
     <Compile Include="FullTime.cs" />
     <Compile Include="Helicopter.cs" />
     <Compile Include="IFlyable.cs" />
